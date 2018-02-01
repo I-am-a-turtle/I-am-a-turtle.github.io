@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Grace Mazzarella's Temporary Website Name
+title: Grace Mazzarella's Github.io Page
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Currently configured for Williams College's CSCI 376 course
 
 # --- Navigation bar options --- #
 
@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "grm2@williams.edu"
-  facebook: daattali
-  github: daattali
+  facebook: https://www.facebook.com/Mazzgenese
+  github: https://github.com/I-am-a-turtle
   twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/grace-mazzarella-1b1362114/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
