@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+// subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### The Basics
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Grace Mazzarella, Williams Class of 2019. I got hooked on Computer Science during fall of my second year, when I took Duane's computer graphics class and Brent's CS 135 (now also 134?) simultaneously.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+When I'm not doing school-related things, I am the head choreographer of Williams College Asian Dance Troupe, and an active member and choreographer for CoDa, the Williams College Contemporary Dance Company. I work in the '62 Center's costume shop, and am decent with a needle and thread.
