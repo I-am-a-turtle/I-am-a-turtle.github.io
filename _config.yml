@@ -25,8 +25,8 @@ description: Currently configured for Williams College's CSCI 376 course
 navbar-links:
   About Me: "aboutme"
   Assignments:
-    - Good Design: "https://i-am-a-turtle.github.io/aboutme/"
-    - Bad Design: "https://i-am-a-turtle.github.io/aboutme/"
+    - Good Design: "good_design"
+    - Bad Design: "bad_design"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
