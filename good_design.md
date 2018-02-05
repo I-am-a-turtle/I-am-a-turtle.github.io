@@ -5,3 +5,5 @@ I think that the website for '62 Center for Theatre and Dance is an example of g
 If the user is not interested in investigating the current season of events and/or buying tickets, they can scroll down to see two labeled buttons for each the Theatre Department and the Dance Department that will lead them to more information on each, a brief description of the Center itself, and a list of links to information about upcoming events.
 
 ![Bottom of the website for the '62 Center for Theatre and Dance](https://github.com/I-am-a-turtle/I-am-a-turtle.github.io/blob/master/img/62%20Center%20bottom.png)
+
+I think these features meet the average user's needs while both looking clean and without clutter.
