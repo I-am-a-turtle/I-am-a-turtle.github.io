@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Assignment: Good Design
-subtitle: 2018-02-05
+title: Good Design
 tags: [assignment]
 ---
 
