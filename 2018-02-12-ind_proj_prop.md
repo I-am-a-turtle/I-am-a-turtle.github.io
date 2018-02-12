@@ -20,4 +20,4 @@ What I propose here is a website program that helps motivated but test-anxious s
 
 [Calvin and Hobbes image source](https://legalscholarsite.com/dont-let-grades-define-you/calvin-hobbes-test-anxiety-290x300/)
 
-[Is It Serious](https://amtaa.org/is-it-serious/)
+[AATA: Is It Serious](https://amtaa.org/is-it-serious/)
