@@ -18,4 +18,6 @@ What I propose here is a website program that helps motivated but test-anxious s
 ### Sources and Inspiration
 2018-02-08’s in-class brainstorming session
 
+[Calvin and Hobbes image source](https://legalscholarsite.com/dont-let-grades-define-you/calvin-hobbes-test-anxiety-290x300/)
+
 [Is It Serious](https://amtaa.org/is-it-serious/)
