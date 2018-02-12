@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bad Design
+title: First post!
+image: /img/hello_world.jpeg
 ---
 
-This is where bad design will live.
+This is my first post, how exciting!
