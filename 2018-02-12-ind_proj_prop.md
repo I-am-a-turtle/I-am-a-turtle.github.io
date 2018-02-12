@@ -5,6 +5,8 @@ date: 2018-02-12
 tags: [assignment]
 ---
 
+[Calvin and Hobbes Test Anxiety](img/CH_Test_Anxiety.jpg)
+
 ### Motivation
 Sometimes the hardest part about testing isn’t the material we study, but the act of taking a test itself.  According to the American Test Anxieties Association, approximately 20% of students suffer from severe test anxiety, while another 16% have moderate test anxiety.  Some estimates have found that this adds up to nearly ten million children whose academic aptitude is not accurately reflected by their grades.  Many students with test anxiety want to improve and are continually frustrated by their poor performance.  For example, youngest sister, who has test anxiety, has heard repeatedly that she should just start studying the material earlier.  I’ve helped her work through the process of the hardest word problems, and then watched her disappointment when she discovers that she tripped up on simple matching questions where she second-guessed herself.
 
