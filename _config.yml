@@ -27,8 +27,8 @@ navbar-links:
   a2a: "https://a2a-2018.github.io"
   Assignments:
     - Good Design: "https://i-am-a-turtle.github.io/2018-02-05-Good-Design/"
-    - Bad Design: "2018-02-05-bad_design"
-    - Individual Project Proposal: "2018-02-12-ind_proj_prop"
+    - Bad Design: "https://i-am-a-turtle.github.io/2018-02-05-Bad-Design/"
+    - Individual Project Proposal: "https://i-am-a-turtle.github.io/2018-02-12-Individual-Project-Proposal/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
