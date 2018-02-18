@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   a2a: "https://a2a-2018.github.io"
   Assignments:
-    - Good Design: "_posts/2018-02-05-Good-Design"
+    - Good Design: "https://i-am-a-turtle.github.io/2018-02-05-Good-Design/"
     - Bad Design: "2018-02-05-bad_design"
     - Individual Project Proposal: "2018-02-12-ind_proj_prop"
 #  Resources:
