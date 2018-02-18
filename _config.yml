@@ -24,6 +24,7 @@ description: Currently configured for Williams College's CSCI 376 course
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  a2a: "https://a2a-2018.github.io"
   Assignments:
     - Good Design: "2018-02-05-good_design"
     - Bad Design: "2018-02-05-bad_design"
