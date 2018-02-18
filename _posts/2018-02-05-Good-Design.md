@@ -2,7 +2,7 @@
 layout: post
 title: Good Design
 date: 2018-02-05
-tags: assignment
+tags: [assignment]
 ---
 
 I think that the website for '62 Center for Theatre and Dance is an example of good design. Upon entering, the user is presented with four clearly and distinctly labeled buttons that address the typical needs of someone who is interested in the current happenings of the '62 Center. 
