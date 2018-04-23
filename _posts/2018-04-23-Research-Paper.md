@@ -7,7 +7,7 @@ tags: [assignment, research paper, report]
 
 The paper I read is this one: [Designing emotional, metaphoric, natural and
 intuitive interfaces for interactive art, edutainment and
-mobile communications by Laurent Mignonneau, Christa Sommerer
+mobile communications by Laurent Mignonneau, Christa Sommerer
 ](https://ac.els-cdn.com/S009784930500155X/1-s2.0-S009784930500155X-main.pdf?_tid=9b4390d8-de65-4221-9407-b3685bb0e42b&acdnat=1524448487_c50457fcbd21beb3938dca1ccb8f5e54)
 
 ### Findings
