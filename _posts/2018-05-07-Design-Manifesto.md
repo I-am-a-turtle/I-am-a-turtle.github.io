@@ -31,6 +31,10 @@ However, because every other screen which could be called from the main toolbar 
 
 [insert image]
 
+Heuristic evaluations make excellent first checks to catch little slips and oversights.  However, just because a design checks out in terms of heuristics does not necessarily mean that it is usable.  So, it must be placed in front of real people, people who are unaffiliated with the project and who have no more background knowledge other than what the design is for.  This way, the designers can see what parts of their work is natural and intuitive, and where users find working with the design confusing.  For example, during the usability testing for a2a, our users discovered that they could view their portfolio once it had art files in it, but that there was no page to account for when the portfolio was empty.  It turns out that we the designers had not considered that a user might look at their portfolio before they had begun to populate it.  The fix was simple enough, but we probably would not have thought of this had our users not pointed out the issue.
+
+[insert image]  
+
 ### The Importance of Neutrality
 
 some text and media will live here
