@@ -13,11 +13,13 @@ Human-computer interaction, as the name suggests, is the field which studies how
 
 Designing for people means making our products and programs as intuitive as possible to use.  They can be fresh, and unique, but should never feel overwhelming and foreign.  Achieving this can be deceptively difficult, since the designers are the ones who came up with their design’s intuition in the first place.  For example, take the following story.  The author is a designer for the application a2a.  The a2a team wanted the application’s basic navigation system to have its own unique flair.  Since our application is a multimedia art-sharing platform, we wanted our icons to be textless so that our users would not inadvertently distract themselves from the main works being shared by spending split-seconds reading buttons that said ‘Follow’ and ‘Like’.  So, we decided to make the ‘Follow’ button an eye icon and the ‘Like’ button a heart.  We also decided that a house icon to represent the ‘home’ or ‘main feed’ button was overdone, and instead opted to use an artist’s palette icon as our ‘home’ icon, to keep with the ‘art’ theme.  
 
-[insert images here]
+![Fig. 1: a2a's initial confusing icons](/img/bad_icons.png)
+Fig. 1: a2a's initial confusing icons
   
 However, during testing, our users found these specific icons unintuitive and confusing because they could not discern the meaning of the eye and heart without explanation, and they had never seen an artist’s palette icon used in this context before.  Ultimately, we ended up reverting to more standard icons because this is what users were already familiar with.
 
-[insert images here]
+![Fig. 2: a2a's revised icons](/img/good_icons.png)
+Fig. 2: a2a's revised and improved icons
 
 This design mistake taught us that there is often a good reason why certain symbols seem standard to use for one purpose or another.  That users’ past experiences contribute to their preconceived notions of what a symbol means or what an aspect of the design does can be used to designers’ advantage.  That is to say, if users see something that they recognize from real life or from past experience, they are likely to use that knowledge as they work to interpret the interface of a product that they are trying for the first time.  Some examples of this are well-documented in chapter 7 of Saffer’s “Designing for Interaction” [(link)](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123981964).  For example, switches and toggles denote a binary choice, dials and sliders imply choices along a continuum, and blank boxes suggest user text input.
 
@@ -25,24 +27,27 @@ This design mistake taught us that there is often a good reason why certain symb
 
 One thing to keep in mind while making a design natural is how to make it natural for all users.  Typically, designers research the populations that they believe make up the average user of their product.  However, this makes it very easy to neglect the needs of those who do not fall within those boundaries.  It can seem like a hassle to designers to make ‘extra considerations’ for groups such as the visually impaired or the anxious.  What many designers, including the author, never consider is that the average user could also benefit from accommodations for the disabled user.  For example, the government of the United Kingdom has a set of guidelines for designing with accessibility in mind [(link)](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=126045048).
 
-[insert images]
+![Fig. 3: low-detail overview of UK's accessibility guidelines](/img/accesibility.png)
+Fig. 3: low-detail overview of UK's accessibility guidelines
 
 Consider the following:  Walls of text are not troublesome only to autistic users.  The author, a probably neurotypical, also balks when confronted with walls of text and the potentially painful necessity to dissect it.  Formatting a webpage such that it has a logical layout does not only help users who rely on screen readers – it saves average users a headache as well.  Similarly, using fonts of readable size with good contrast saves the eyes of both low-vision and average users.  Providing large, clickable actions is less frustrating for both the physically disabled and the average user.  These are just some of the simple ways that designers can make their designs more accessible and natural to all users.
-
 
 ### You Will Never Catch All Your Mistakes
 
 Because making a design natural can be unexpectedly tricky, the best way to find out if it is as easy to understand and use as it was designed to be is to test it.  One way to do this is through heuristic evaluations, a technique developed by the Danish web usability consultant Jakob Nielsen.  Through research, Nielsen derived ten heuristics to which program interfaces can be quickly evaluated by designers, their associates, and even users themselves [(link)](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123981910).  These heuristics include ideas such as “visibility of system status”, “recognition rather than recall”, and “help users recognize, diagnose, and recover from errors”.  While these may seem like basic characteristics of a user interface, they are remarkably easy to take for granted.  For example, the a2a team ran afoul of the heuristic “consistency and standards” when we decided that we wanted to make our notifications section a speech bubble-shaped pop-up that would overlay the main screen when called from the main toolbar.  
 
-[insert image]
+![Fig. 4: a2a's intial heuristic-violating notifications speech bubble](/img/bad_noti.png)
+Fig. 4: a2a's intial heuristic-violating notifications speech bubble
   
 However, because every other screen which could be called from the main toolbar resulted in a completely new page, the pop-up notifications bubble read to our heuristic evaluator as violating “consistency and standards”.  In hindsight, the design team completely agreed with that assessment and changed the pop-up to its own page.
 
-[insert image]
+![Fig. 5: a2a's revised notifications page](/img/good_noti.png)
+Fig. 5: a2a's revised notifications page
 
 Heuristic evaluations make excellent first checks to catch little slips and oversights.  However, just because a design checks out in terms of heuristics does not necessarily mean that it is usable.  So, it must be placed in front of real people, people who are unaffiliated with the project and who have no more background knowledge other than what the design is for.  This way, the designers can see what parts of their work is natural and intuitive, and where users find working with the design confusing.  For example, during the usability testing for a2a, our users discovered that they could view their portfolio once it had art files in it, but that there was no page to account for when the portfolio was empty.  It turns out that we the designers had not considered that a user might look at their portfolio before they had begun to populate it.  The fix was simple enough, but we probably would not have thought of this had our users not pointed out the issue.
 
-[insert image]  
+![Fig. 6: a2a's added empty portfolio page](/img/empty_port.png)
+Fig. 6: a2a's added empty portfolio page
 
 ### The Importance of Neutrality
 
@@ -50,7 +55,8 @@ When conducting usability tests, we, the a2a team, had to keep in mind that our 
 
 Apart from interviewing and testing, the importance of neutrality carries into several other areas.  One of these is prototyping.  In the same vein as how little gestures can clue a tester in to an interviewer or facilitator’s reactions and impact their future decisions, polished-looking images as prototypes stick in users’ minds and impact their ability to evaluate the nitty-gritty of a design over the aesthetic of the graphics.  This is why low-fidelity prototyping exists.  These prototypes remove the aesthetic aspect of the design, allowing evaluators to focus on what does and does not work in terms of usability rather than visual prettiness [(Rogers et al.)](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123995954 (Rogers et al.)).  They also help both users and the designers maintain a neutral opinion toward any one iteration or a design.  Making a design beautiful too early not only trips up the users, but also biases the designers to favor that form on which they spent so much time and effort.
 
-[insert images]
+![Fig. 7: low-fidelity prototype versus high-fidelity prototype](/img/versus.png)
+Fig. 7: low-fidelity prototype versus high-fidelity prototype
 
 Another, more dangerous area where neutrality and bias have a huge impact is the way in which we program our technology.  As was discussed in some of the ethics readings [(machine bias)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) and in the ethics lecture, machines are only as smart the humans who program them, so if the humans give the machines a biased set of data, the machines will make biased decisions.
 
