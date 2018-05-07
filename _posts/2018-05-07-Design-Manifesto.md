@@ -23,7 +23,12 @@ This design mistake taught us that there is often a good reason why certain symb
 
 ### Accessibility Doesn't Favor, It Enables
 
-some text and media will live here
+One thing to keep in mind while making a design natural is how to make it natural for all users.  Typically, designers research the populations that they believe make up the average user of their product.  However, this makes it very easy to neglect the needs of those who do not fall within those boundaries.  It can seem like a hassle to designers to make ‘extra considerations’ for groups such as the visually impaired or the anxious.  What many designers, including the author, never consider is that the average user could also benefit from accommodations for the disabled user.  For example, the government of the United Kingdom has a set of guidelines for designing with accessibility in mind [(link)](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=126045048).
+
+[insert images]
+
+Consider the following:  Walls of text are not troublesome only to autistic users.  The author, a probably neurotypical, also balks when confronted with walls of text and the potentially painful necessity to dissect it.  Formatting a webpage such that it has a logical layout does not only help users who rely on screen readers – it saves average users a headache as well.  Similarly, using fonts of readable size with good contrast saves the eyes of both low-vision and average users.  Providing large, clickable actions is less frustrating for both the physically disabled and the average user.  These are just some of the simple ways that designers can make their designs more accessible and natural to all users.
+
 
 ### You Will Never Catch All Your Mistakes
 
@@ -51,9 +56,12 @@ Another, more dangerous area where neutrality and bias have a huge impact is the
 
 ### Face the Unforseen Consequences to which Your Product Contributed
 
-some text and media will live here
+As our technology progresses and impact society faster than the law can keep up with it, designers and computer scientists in general should strive to do no harm.  Cases in which populations are harmed, intentionally or otherwise, due to a technology product or program are growing, and we the developers are the ones with the power to stop it.  For example, there is a case where an algorithm is used to determine what type of healthcare a person should receive [(link)](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy).  Ever since the beginning of its use, it has made cuts that severely impact the quality of life for many, to the extent where some were hospitalized or could no longer live independently.  In another case, Facebook carried out an experiment without consent on users by controlling how much positive or negative information they saw on their feeds [(link)](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html).  This manipulation of emotions had the potential to have a serious negative impact on users who received more negative information and were already in a delicate state of mind.  Facebook responded by claiming that users had agreed to experimentation by using their product.
+
+It is highly improbable that there will ever come a time when technology products no longer do harm to others.  There are simply too many situations which take too long to become obvious for developers and designers to consider and make efforts to prevent them all.  Thus, we as computer scientists need to be prepared to take responsibility for the wrongs our products have wrought and to work to improve them or change the culture around them.  We may not be able to foresee that, say, the Mechanical Turk platform could become such a harsh and unregulated environment that for many is their main source of income [(link)](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/).  However, we can certainly respond by changing regulations to protect workers from abuse.
+
 
 ### Conclusion
 
-some text will live here - tell 'em what you told 'em
+This past semester has not only honed our skills in researching, designing, and testing, but also allowed us to think more broadly about the power of technology and design, and their power to impact society.  As computer scientists and designers, we want to make technology that is intuitive to use for as wide a user base as possible.  This means considering more than just the average user and working to develop interfaces that integrate accessibility seamlessly with natural usability.  We also must be aware that we will never catch all our oversights, and that we must rely on outside testers to help us find what we had not thought of.  We must also remember the widespread power of neutrality and bias, from neutrality’s aid in interviews and testing, to bias’s control over impressions left by high-fidelity versus low-fidelity prototyping and the very data which we use to program our artificial intelligence.  Finally, we must be ready to accept responsibility for the harm which our programs do and continue working toward doing no harm.  These areas are some of the more important ones which should form and inform designs.
 
